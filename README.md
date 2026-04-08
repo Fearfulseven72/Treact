@@ -1,5 +1,8 @@
 ﻿# Treact__Project
 
+#star emoji
+:star:
+
 #Images
 
 #about_pic
